@@ -1,0 +1,6 @@
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\bin\Debug\Diziler_Arrays.exe.config
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\bin\Debug\Diziler_Arrays.exe
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\bin\Debug\Diziler_Arrays.pdb
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\obj\Debug\Diziler_Arrays.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\obj\Debug\Diziler_Arrays.exe
+C:\Users\omer_\Desktop\Diziler_Arrays\Diziler_Arrays\obj\Debug\Diziler_Arrays.pdb
